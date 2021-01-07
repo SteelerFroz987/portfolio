@@ -55,22 +55,34 @@ width: 100%;
   }
 .img5{
     margin-top: 10px;
-    margin-left: 200px;
+    margin-left: 300px;
     float: left;
 }
 
 .img6{
     margin-left: 250px;
-    margin-top: 100;
+    margin-top: 200px;
+    margin-right: 300px;
+
     float : right;
 }
 
 .img7{
     float: left;
-    margin-left: -100px;
+    margin-left: 300px;
+    margin-top: 200px;
 }
 
 .img8{
     float : right;
+    margin-top: 200px;
+    margin-right: 300px;
+
+
+
+
+
+
+
 }
 
